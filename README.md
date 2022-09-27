@@ -20,4 +20,4 @@ pip install scanpy pyarrow
 ```
 
 # Tutorial
-[h5ad tutorial notebook]('./h5ad-tutorial.ipynb')
+[h5ad tutorial notebook]('creation-tutorial.ipynb')
